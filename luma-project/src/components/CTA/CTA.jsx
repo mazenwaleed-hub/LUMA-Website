@@ -1,4 +1,4 @@
-import ctaImg from '../../assets/CTA-IMG.png'
+import ctaImg from '../../assets/CTA-IMG.webP'
 import "./CTA.css";
 
 export function CTA() {

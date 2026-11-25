@@ -1,4 +1,4 @@
-import AboutImage from "../../assets/about-image.jpg";
+import AboutImage from "../../assets/about-image.WebP";
 import {CollectionBtn} from '../Button/CollectionBtn'
 import "../About/About.css";
 export function About() {
